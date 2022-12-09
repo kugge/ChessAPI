@@ -1,2 +1,3 @@
-# Chess-MinMax
-Minmax applied to chess
+# ChessAPI
+
+Chess API made for AI applications.
